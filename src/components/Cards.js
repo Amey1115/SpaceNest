@@ -13,19 +13,19 @@ function Cards() {
                             src='images/comet.jpg'
                             text='Comets are cosmic snowballs of frozen gases, rock, and dust that orbit the Sun.'
                             label='Neowise Comet'
-                            path='/services'
+                            // path='/services'
                         />
                         <CardItem
                             src='images/moon.jpg'
                             text='The Moon makes Earth a more livable planet by moderating the wobble of our home planet on its axis'
                             label='Moon'
-                            path='/services'
+                            // path='/services'
                         />
                         <CardItem
                             src='images/blackhole.jpg'
                             text='A black hole is a place in space where gravity pulls so much that even light can not get out.'
                             label='Blackhole'
-                            path='/services'
+                            // path='/services'
                         />
                     </ul>
 
